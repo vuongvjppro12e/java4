@@ -1,0 +1,9 @@
+127.0.0.1 - - [21/Apr/2022:11:11:49 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:11:54 +0700] "GET /Assignment/category/create HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:11:55 +0700] "GET /Assignment/login HTTP/1.1" 500 5638
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:11:55 +0700] "GET /Assignment/js/bootstrap.min.js HTTP/1.1" 200 59219
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:11:55 +0700] "GET /Assignment/js/jquery.min.js HTTP/1.1" 200 89500
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:11:55 +0700] "GET /Assignment/css/bootstrap.min.css HTTP/1.1" 200 163873
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:11:55 +0700] "GET /Assignment/js/popper.min.js HTTP/1.1" 200 19492
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:11:55 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [21/Apr/2022:17:28:10 +0700] "GET / HTTP/1.1" 404 751

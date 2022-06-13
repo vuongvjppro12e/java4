@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PH15053_VietTienVuong_Lab5_310322/src/main/webapp/views/category&apos; to &apos;categories&apos;" description="Rename resource &apos;category&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/views/category" name="categories" stamp="1648871450230" updateReferences="true"/>
+</session>

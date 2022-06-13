@@ -1,0 +1,15 @@
+127.0.0.1 - - [19/Apr/2022:20:01:10 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:11 +0700] "GET /Assignment/HomeServlet HTTP/1.1" 200 5829
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:11 +0700] "GET /Assignment/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:11 +0700] "GET /Assignment/js/popper.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:11 +0700] "GET /Assignment/js/jquery.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:11 +0700] "GET /Assignment/js/bootstrap.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:11 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:16 +0700] "GET /Assignment/users/index HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:16 +0700] "GET /Assignment/login HTTP/1.1" 500 5638
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:22 +0700] "GET /Assignment/HomeServlet HTTP/1.1" 200 5829
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:25 +0700] "GET /Assignment/users/index HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:25 +0700] "GET /Assignment/login HTTP/1.1" 500 5638
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:33 +0700] "POST /Assignment/login HTTP/1.1" 500 1309
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:48 +0700] "POST /Assignment/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:20:01:48 +0700] "GET /Assignment/users/index HTTP/1.1" 200 16002
